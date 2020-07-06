@@ -12,6 +12,4 @@ puts phrase
 puts phrase
 puts phrase
 
-def greeting(string)
-  
-end
+
